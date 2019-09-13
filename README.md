@@ -34,5 +34,5 @@ You may also add:
 As always, use your peers for help. That's why we have a Slack channel 😉. [Stack Overflow](https://stackoverflow.com/) and [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) are also your friends. Use them!
 
 ## **Due Date**
-* First Draft Due: **9AM on Monday, September 16**.
+* First Draft Due: **9AM on Monday, September 30**.
 * Live Draft Due: **9AM on Monday, October 7** (This is the day that we will publish them to the web. They will still be a work in progress and that's fine. You just want to be proud of where it stands.💪🏽)
