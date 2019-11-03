@@ -36,7 +36,7 @@ p{
 ul{
   /*display:flex;*/
   margin:0;
-  padding:0;
+  
 }
 li{
   margin-right:25px;
@@ -55,5 +55,6 @@ img{
   }
   ul{
     display: flex;
+    padding:0;
   }
 }
