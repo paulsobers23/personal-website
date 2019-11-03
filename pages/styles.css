@@ -13,7 +13,8 @@ a:hover{
 
 header{
   display:flex;
-  justify-content:space-between;
+  align-items:center;
+  flex-direction:column;
   padding:20px 20px;
   margin:30px 0;
   background-color:rgb(155,155,155);
@@ -33,7 +34,7 @@ p{
   font-size:15px;
 }
 ul{
-  display:flex;
+  /*display:flex;*/
   margin:0;
   padding:0;
 }
@@ -44,4 +45,15 @@ li{
 img{
   width:100px;
   height:100px;
+}
+
+@media only screen and (min-width: 768px) {
+  header {
+    display:flex;
+    justify-content:space-between;
+    flex-direction:row;
+  }
+  ul{
+    display: flex;
+  }
 }
